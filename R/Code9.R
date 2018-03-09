@@ -40,8 +40,6 @@ movingaverage<-function(x=x,side="both",numbertoside=NULL){
   return(malist)
 }
 
-
-
 #' Two-Sample Power Calculation Based on Simulation
 #'
 #' @description Power is the probability we reject the null hypothesis given it
